@@ -59,4 +59,4 @@ jobs:
           app-name: 'llama-3-2-web-llm'
           slot-name: 'v2'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56255BDCFF6945739F0B9374B900ABDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A997AFA4D80406CAD9A985747B6906D }}
